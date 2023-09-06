@@ -1,2 +1,2 @@
-0-current_working_directory=$(pwd)
-echo "$0-current_working_directory"
+#!/bin/bash
+pwd
